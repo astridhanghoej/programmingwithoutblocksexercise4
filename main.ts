@@ -1,3 +1,5 @@
+
+/*Change the program that is able to take inputs for two intervals: [a,b] and [c,d]. Endpoints should be positive and whole numbers. Write a program that determines if they overlap. */
 input.onButtonPressed(Button.A, function () {
     i += 1
     basic.showNumber(i)
